@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: pink;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      text-align: center;
+    }
+    h1 {
+      color: red;
+      font-size: 50px;
+    }
+    p {
+      color: white;
+      font-size: 25px;
+    }
+    a {
+      color: yellow;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>I Love You!</h1>
+  <p>You are the best thing that ever happened to me hamid.</p>
+  <p>You used to make me happy every day.</p>
+  <p>You are my best friend and my partner in crime.</p>
+  <p>I can't wait to see you again.</p>
+  <p>Please click <a href="https://youtu.be/mPfrPDYSkac?si=-BH4aFaK2JjgOonM">here</a> to see a special message for you.</p>
+</body>
+</html>
